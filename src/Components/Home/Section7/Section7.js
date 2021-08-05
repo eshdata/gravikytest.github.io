@@ -1,7 +1,6 @@
 /* eslint-disable react/jsx-no-target-blank */
 /* eslint-disable jsx-a11y/anchor-is-valid */
 import React, { Component } from "react";
-import card from "../../../assets/card.png";
 import naomi from "../../../assets/naomicampbell.jpeg"
 import play from "../../../assets/Play.png";
 import "./Section7.css";
