@@ -16,8 +16,8 @@ export default class Section7 extends Component {
           </p>
           <img className="card-img-mobile-version" src={naomi} alt="naomi" />
           <div className="section7-button-container">
-            <a className="partner-button" href="/partners">
-              Partner with us
+            <a className="partner-button" href="https://thepangaia.com/pages/airink">
+              Explore Pangaia x AIR-INK®
             </a>
             <a className="watch-video-button" href="https://www.youtube.com/watch?v=LRZedVsNulk" target= "_blank">
               <img src={play} alt="Play" />

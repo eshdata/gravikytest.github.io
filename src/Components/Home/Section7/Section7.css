@@ -46,9 +46,9 @@
     justify-content: space-around;
     background: #095CE5;
     border-radius: 30px;
-    width: 47%;
-    height: 50px;
-    font-size: 110%;
+    width: 50%;
+    height: 40px;
+    font-size: 80%;
     text-decoration: none;
     color: #fff;
     font-family: 'WorkSinRegular';
@@ -59,6 +59,7 @@
     align-items: center;
     justify-content: space-around;
     width: 45%;
+    margin-left: 5%;
     text-decoration: none;
     color: #095CE5;
 }
@@ -81,7 +82,7 @@
         justify-content: space-around;
         width: 45%;
         text-decoration: none;
-        font-size: 150%;
+        font-size: 100%;
     }
 
     .partner-button {
@@ -91,8 +92,8 @@
         background: #095CE5;
         border-radius: 30px;
         width: 50%;
-        height: 60px;
-        font-size: 150%;
+        height: 40px;
+        font-size: 80%;
         text-decoration: none;
         color: #fff;
         font-family: 'WorkSinRegular';
@@ -190,7 +191,7 @@
         border-radius: 30px;
         width: 100%;
         height: 50px;
-        font-size: 150%;
+        font-size: 130%;
         text-decoration: none;
         color: #fff;
         font-family: 'WorkSinRegular';
