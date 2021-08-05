@@ -10,7 +10,7 @@ export default class Section7 extends Component {
     return (
       <div className="section7-container">
         <div className="section7-left">
-          <h1>With Pangaia <br></br>Pangaia x AIRINK</h1>
+          <h1>With Pangaia <br></br>Pangaia x AIR-INK®</h1>
           <p>
             We partnered with Pangaia to create water-based black ink from air pollution.
           </p>
