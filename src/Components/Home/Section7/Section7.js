@@ -14,7 +14,7 @@ export default class Section7 extends Component {
           <p>
             We partnered with Pangaia to create water-based black ink from air pollution.
           </p>
-          <img className="card-img-mobile-version" src={card} alt="card" />
+          <img className="card-img-mobile-version" src={naomi} alt="naomi" />
           <div className="section7-button-container">
             <a className="partner-button" href="/partners">
               Partner with us
