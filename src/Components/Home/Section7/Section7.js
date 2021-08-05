@@ -12,7 +12,7 @@ export default class Section7 extends Component {
         <div className="section7-left">
           <h1>Pangaia x AIR-INK®</h1>
           <p>
-            We partnered with Pangaia to create water-based black ink from air pollution.
+            We helped Pangaia launch a clothing line made by upcycling CO2 emissions.
           </p>
           <img className="card-img-mobile-version" src={naomi} alt="naomi" />
           <div className="section7-button-container">
